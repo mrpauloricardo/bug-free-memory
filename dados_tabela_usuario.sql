@@ -1,0 +1,16 @@
+INSERT INTO `rede_social`.`usuario` (`nome`, `data_nascimento`, `email`, `senha`, `foto`) VALUES
+  ('Breno Lucas', '2003-05-15', 'breno.lucas@email.com', 'backendrules', NULL),
+  ('Cid Marconi', '1976-03-29', 'cid.marconi@email.com', 'caleidoscopio', NULL),
+  ('Kezia Fernandes', '1992-02-10', 'kezia.fernandes@email.com', 'kezia1992', NULL),
+  ('Paulo Ricardo', '2001-04-05', 'paulo.ricardo@email.com', 'andromeda', NULL),
+  ('Roberta Germano', '1980-07-18', 'roberta.germano@email.com', 'senhasenha', NULL),
+  ('Tobias Souza', '1995-04-27', 'tobias.souza@email.com', '1995tobias', NULL),
+  ('Erica Fontenele', '2001-08-28', 'erica.fontenele@email.com', 'ef20010828', NULL),
+  ('Luiz Antonio', '1993-06-12', 'luiz.antonio@email.com', 'eolaion2023', NULL),
+  ('Felipe Martins', '1988-09-05', 'felipe.martins@email.com', 'vozao2020', NULL),
+  ('Gustavo Teixeira', '1997-03-08', 'gustavo.teixeira@email.com', '1997gu1997', NULL),
+  ('Fernando Rodrigues', '1985-12-20', 'fernando.rodrigues@email.com', 'lakeshow2020', NULL),
+  ('Joana Silva', '1994-10-15', 'joana.silva@email.com', 'jojosilva94', NULL),
+  ('Marcos Oliveira', '1991-09-30', 'marcos.oliveira@email.com', '30091991', NULL),
+  ('Luciana Santos', '1986-07-25', 'luciana.santos@email.com', 'lucianalssantos', NULL),
+  ('Pedro Almeida', '1996-05-03', 'pedro.almeida@email.com', 'pedropedropedro', NULL);
